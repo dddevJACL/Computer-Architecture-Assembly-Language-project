@@ -1,4 +1,4 @@
-# Computer-Architecture-Assembly-Language-project
+# Computer-Architecture-Assembly-Language-project (Spring 2023)
 
 
 This program uses macros and procedures in conjuntion to prompt a user for 10 signed integers that fit within a 32 bit register.
